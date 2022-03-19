@@ -1,0 +1,11 @@
+{
+  "appname": "测试2",
+  "bundleid": "com.ch.test2",
+  "version": "1.1",
+  "build": "10086",
+  "team": "---------------------",
+ 
+   "AAA": "AAAA2",
+   "BBB": "BBBB2",
+   "CCC": "CCCC2"
+}
